@@ -1,7 +1,7 @@
-nome = input("qual é o seu nome? \n")  #definição de variável
-ano = int(input("qual o ano atual?\n")) #definição de variável
-idade = int(input("qual é o seu ano de nascimento?\n")) #definição de variável
-subtracao = ano - idade #definição de variável
+valora = str(input("qual é o seu nome filho da put4? \n"))
 
-print("ola %s voce possui em torno de %d anos" % (nome, subtracao)) #imprimir mensagem
+print("kkkkkkkkkkkkkkkkkkkkk seu nome é %s? que nome de viadinho" % valora)
+valorb = int(input("E a sua idade arrombado? \n"))
+print("caralho mano, já tem cabelo no cú né véi com %i " % valorb)
+
 
